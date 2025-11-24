@@ -1,0 +1,153 @@
+﻿2025-11-24 20:06 - USER: I am sad today
+2025-11-24 20:06 - BOT: I'm sorry you’re feeling sad. I'm here for you 💙
+
+2025-11-24 20:06 - USER: quit
+2025-11-24 20:06 - BOT: Goodbye!
+
+2025-11-24 20:32 - USER: You: I am happy today
+2025-11-24 20:32 - BOT: You sound happy! 😊
+
+2025-11-24 20:32 - USER: You: I am sad now
+2025-11-24 20:32 - BOT: I'm sorry you’re feeling sad. I'm here for you 💙
+
+2025-11-24 20:32 - USER: You: quit
+2025-11-24 20:32 - BOT: Thanks for sharing. Tell me more.
+
+2025-11-24 20:36 - USER: I am happy today
+2025-11-24 20:36 - BOT: You sound happy! 😊
+
+2025-11-24 20:36 - USER: Bot (HAPPY): You sound happy! 😊
+2025-11-24 20:36 - BOT: You sound happy! 😊
+
+2025-11-24 20:36 - USER: 
+2025-11-24 20:36 - BOT: Thanks for sharing. Tell me more.
+
+2025-11-24 20:36 - USER: I am sad now
+2025-11-24 20:36 - BOT: I'm sorry you’re feeling sad. I'm here for you 💙
+
+2025-11-24 20:36 - USER: Bot (SAD): I'm sorry you’re feeling sad. I'm here for you 💙
+2025-11-24 20:36 - BOT: I'm sorry you’re feeling sad. I'm here for you 💙
+
+2025-11-24 20:36 - USER: 
+2025-11-24 20:36 - BOT: Thanks for sharing. Tell me more.
+
+2025-11-24 20:37 - USER: I am happy today
+2025-11-24 20:37 - BOT: You sound happy! 😊
+
+2025-11-24 20:37 - USER: I am sad now
+2025-11-24 20:37 - BOT: I'm sorry you’re feeling sad. I'm here for you 💙
+
+2025-11-24 20:42 - USER: i am happy
+2025-11-24 20:42 - BOT: You sound happy! 😊
+
+2025-11-24 20:42 - USER: i am d
+2025-11-24 20:42 - BOT: Thanks for sharing. Tell me more.
+
+2025-11-24 20:42 - USER: i am ill
+2025-11-24 20:42 - BOT: I'm sorry you’re feeling sad. I'm here for you 💙
+
+2025-11-24 20:43 - USER: quit
+2025-11-24 20:43 - BOT: Goodbye!
+
+2025-11-24 20:45 - USER: I am sad → Sentiment: Negative
+2025-11-24 20:45 - BOT: I'm sorry you’re feeling sad. I'm here for you 💙
+
+2025-11-24 20:47 - USER: quit
+2025-11-24 20:47 - BOT: Goodbye!
+
+2025-11-24 20:48 - USER: I am happy today → Emotion: HAPPY, Sentiment: Positive
+2025-11-24 20:48 - BOT: You sound happy! 😊
+
+2025-11-24 20:48 - USER: I am sad now → Emotion: SAD, Sentiment: Negative
+2025-11-24 20:48 - BOT: I'm sorry you’re feeling sad. I'm here for you 💙
+
+2025-11-24 20:48 - USER: I feel neutral → Emotion: NEUTRAL, Sentiment: Neutral
+2025-11-24 20:48 - BOT: Thanks for sharing. Tell me more.
+
+2025-11-24 20:51 - USER: I am happy today → Emotion: HAPPY, Sentiment: Positive
+2025-11-24 20:51 - BOT: You sound happy! 😊
+
+2025-11-24 20:54 - USER: quit
+2025-11-24 20:54 - BOT: Goodbye!
+
+2025-11-24 21:00 - USER: i am happy → Emotion: HAPPY, Sentiment: Positive
+2025-11-24 21:00 - BOT: You sound happy! 😊
+
+2025-11-24 21:00 - USER: I am happy today → Emotion: HAPPY, Sentiment: Positive
+2025-11-24 21:00 - BOT: You sound happy! 😊
+
+2025-11-24 21:00 - USER: I am sad now → Emotion: SAD, Sentiment: Negative
+2025-11-24 21:00 - BOT: I'm sorry you’re feeling sad. I'm here for you 💙
+
+2025-11-24 21:00 - USER: I feel neutral → Emotion: NEUTRAL, Sentiment: Neutral
+2025-11-24 21:00 - BOT: Thanks for sharing. Tell me more.
+
+2025-11-24 21:00 - USER: quit
+2025-11-24 21:00 - BOT: Goodbye!
+
+2025-11-24 21:03 - USER: I am happy today → Emotion: HAPPY, Sentiment: Positive
+2025-11-24 21:03 - BOT: You sound happy! 😊
+
+2025-11-24 21:03 - USER: I am sad now → Emotion: SAD, Sentiment: Negative
+2025-11-24 21:03 - BOT: I'm sorry you’re feeling sad. I'm here for you 💙
+
+2025-11-24 21:03 - USER: I feel neutral → Emotion: NEUTRAL, Sentiment: Neutral
+2025-11-24 21:03 - BOT: Thanks for sharing. Tell me more.
+
+2025-11-24 21:03 - USER: quit
+2025-11-24 21:03 - BOT: Goodbye!
+
+2025-11-24 21:29 - USER: i am happy → Emotion: HAPPY, Sentiment: Positive
+2025-11-24 21:29 - BOT: You sound happy! 😊
+
+2025-11-24 21:29 - USER: quit
+2025-11-24 21:29 - BOT: Goodbye!
+
+2025-11-24 22:08 - USER: "your service disappoints me" → Emotion: SAD, Sentiment: Negative
+2025-11-24 22:08 - BOT: I'm sorry you’re feeling sad. I'm here for you 💙
+
+2025-11-24 22:11 - USER: quit
+2025-11-24 22:11 - BOT: Goodbye!
+
+2025-11-24 22:11 - USER: "your service disappoints me" → Sentiment: Negative
+2025-11-24 22:11 - BOT: I’ll make sure your concern is addressed.
+
+2025-11-24 22:12 - USER: "last experience was better" → Sentiment: Positive
+2025-11-24 22:12 - BOT: I’m glad to hear that!
+
+2025-11-24 22:12 - USER: quit
+2025-11-24 22:12 - BOT: Goodbye!
+
+2025-11-24 22:16 - USER: "your service disappoints me" → Sentiment: Negative
+2025-11-24 22:16 - BOT: I’ll make sure your concern is addressed.
+
+2025-11-24 22:16 - USER: "last experience was better" → Sentiment: Positive
+2025-11-24 22:16 - BOT: I’m glad to hear that!
+
+2025-11-24 22:16 - USER: quit
+2025-11-24 22:16 - BOT: Goodbye!
+
+2025-11-24 22:25 - USER: your rvice dippoint me → Sentiment: Neutral
+2025-11-24 22:25 - BOT: Thanks for sharing. Tell me more.
+
+2025-11-24 22:26 - USER: "Your service disappoints me" → Sentiment: Negative
+2025-11-24 22:26 - BOT: I’ll make sure your concern is addressed.
+
+2025-11-24 22:26 - USER: "Last experience was better" → Sentiment: Positive
+2025-11-24 22:26 - BOT: I’m glad to hear that!
+
+2025-11-24 22:27 - USER: quit
+2025-11-24 22:27 - BOT: Goodbye!
+
+2025-11-24 23:32 - USER:  → Sentiment: Neutral
+2025-11-24 23:32 - BOT: Thanks for sharing. Tell me more.
+
+2025-11-24 23:32 - USER: "Your service disappoints me" → Sentiment: Negative
+2025-11-24 23:32 - BOT: I’ll make sure your concern is addressed.
+
+2025-11-24 23:33 - USER: "Last experience was better" → Sentiment: Positive
+2025-11-24 23:33 - BOT: I’m glad to hear that!
+
+2025-11-24 23:33 - USER: quit
+2025-11-24 23:33 - BOT: Goodbye!
+
