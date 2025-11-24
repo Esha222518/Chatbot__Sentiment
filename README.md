@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 CHATBOT WITH SENTIMENT ANALYSIS :-
 
 OVERVIEW :-
@@ -123,3 +124,7 @@ Final Output:
 Overall conversation sentiment: Negative – general dissatisfaction
 
 
+=======
+# Chatbot_Sentiment
+A Python-based chatbot that conducts conversations with users, performs sentiment and emotion analysis for each message, and provides overall conversation sentiment. Includes a Streamlit UI for interactive chatting.
+>>>>>>> 493f5ea8f818ff5af73356b7f4d17d5f113f2f32
