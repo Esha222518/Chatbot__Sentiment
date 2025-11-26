@@ -103,7 +103,7 @@ ENHANCEMENTS:-
 - Clean, modular, production-friendly code structure with separate modules for sentiment and emotion detection.
 
 SAMPLE TEST CASE TAKEN:-
-![image alt](image_url)
+![image alt](https://github.com/Esha222518/Chatbot__Sentiment/blob/5731ebbdffef922991c70eed4508006473d478f6/Screenshot%202025-11-27%20005443.png)
 
 
 
