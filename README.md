@@ -103,10 +103,8 @@ ENHANCEMENTS:-
 - Clean, modular, production-friendly code structure with separate modules for sentiment and emotion detection.
 
 SAMPLE TEST CASE TAKEN:-
-![image alt](https://github.com/Esha222518/Chatbot__Sentiment/blob/5731ebbdffef922991c70eed4508006473d478f6/Screenshot%202025-11-27%20005443.png)
 
-
-
+Screenshot of the sample test case which I have taken is also uploaded in this github repository.
 
 Example user conversation:-
 Test 1:
@@ -126,8 +124,7 @@ Output:User: "I feel neutral today" → Sentiment: Neutral, Emotion: NEUTRAL
 Chatbot: "Thanks for sharing. Tell me more."
 
 Final Output:
-Overall conversation sentiment: Negative – general dissatisfaction
-
+Overall conversation sentiment: Negative – general dissatisfaction.
 
 =======
 # Chatbot_Sentiment
