@@ -103,6 +103,11 @@ ENHANCEMENTS:-
 - Clean, modular, production-friendly code structure with separate modules for sentiment and emotion detection.
 
 SAMPLE TEST CASE TAKEN:-
+![image alt](image_url)
+
+
+
+
 Example user conversation:-
 Test 1:
 Input: "Your service disappoints me"
