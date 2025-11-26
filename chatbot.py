@@ -20,29 +20,24 @@ while True:
     user_input = input("You: ").strip()
 
     if user_input.lower() == "quit":
-        # Overall conversation sentiment
-        overall_score = sum(analyze_sentiment(msg)[1]['compound'] for msg in conversation_messages)
-        avg_score = overall_score / len(conversation_messages) if conversation_messages else 0
-
-        if avg_score >= 0.05:
-            overall_sentiment = "Positive"
-            description = "general satisfaction"
-        elif avg_score <= -0.05:
+        
+        # RULE: If ANY message was Negative → Overall Negative
+        if "Negative" in conversation_sentiments:
             overall_sentiment = "Negative"
             description = "general dissatisfaction"
         else:
-            overall_sentiment = "Negative"
-            description = "general dissatisfaction"
+            overall_sentiment = "Positive"
+            description = "general satisfaction"
 
         print(f"\nFinal Output: Overall conversation sentiment: {overall_sentiment} – {description}")
         save_to_log("quit", "Goodbye!")
         print("Bot: Goodbye! 👋")
         break
 
-    # Get sentiment
+    # Get sentiment of user's message
     sentiment_label, scores = analyze_sentiment(user_input)
 
-    # Decide bot reply based on sentiment
+    # Decide bot reply
     if sentiment_label == "Negative":
         bot_reply = "I’ll make sure your concern is addressed."
     elif sentiment_label == "Positive":
@@ -50,13 +45,13 @@ while True:
     else:
         bot_reply = "Thanks for sharing. Tell me more."
 
-    # Save conversation
+    # Save message and sentiment
     conversation_messages.append(user_input)
     conversation_sentiments.append(sentiment_label)
 
-    # Display in example format
+    # Display output
     print(f'User: "{user_input}" → Sentiment: {sentiment_label}')
     print(f'Chatbot: "{bot_reply}"\n')
 
-    # Save to log
+    # Save log
     save_to_log(user_input, bot_reply, sentiment_label)
